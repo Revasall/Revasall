@@ -1,16 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matsvey Reut
-=====================================================================================================================================
+# Hello! My name is Matsvey Reut.
 
-Pyhton backend developer and philosopher
-----------------------------------------
+I am a motivated Python developer with a strong background in IT sales and product presentation. Hands-on experience building backend services with FastAPI, SQLAlchemy, and PostgreSQL.
+Analytical mindset, good understanding of business processes and user needs, developed through previous work in IT product sales.
 
-I have been learning python coding for 3 years now and I specialize mainly in backend development. I have a technical education in the field of energy, but at the moment I am receiving a philosophical education in absentia. I had experience in selling IT products for a year and a half, but now I create them myself.
-
-I am a Catholic, Belarusian, married, 24 years old.
 
 * 🌍  I'm based in Belarus, Minsk/ Czech Republic, Teplice
 * ✉️  You can contact me at [matvejreut@gmail.com](mailto:matvejreut@gmail.com)
-* 🧠  I'm currently learning FastAPI and Django
+* 🧠  I'm currently work with FastAPI and Django
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
